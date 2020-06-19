@@ -1,0 +1,16 @@
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.exe
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.deps.json
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.json
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.dev.json
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.dll
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.pdb
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csproj.CopyComplete
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb
+C:\Users\vsdiagtester\Desktop\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.genruntimeconfig.cache
